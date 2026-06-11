@@ -18,7 +18,7 @@ class RoomGuard:
         self.root.geometry("900x700")
 
         # ---------------- CONFIG ----------------
-        self.webhook_url = "https://discord.com/api/webhooks/1514590599108493312/UzaPY4cjOpIiApeXLS139D-mNeBMjbJSURdwdX-Hkb-W4qw5OuHHeKubc8cHekHYXPfu"
+        self.webhook_url = "URL HERE"
 
         # ---------------- FOLDERS ----------------
         os.makedirs("recordings", exist_ok=True)
